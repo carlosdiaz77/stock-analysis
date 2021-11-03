@@ -13,12 +13,26 @@ We had data of their stock prices of the years 2017  and 2018
 - <img src = "Resources/tickers.png" width= "500" >
 - You can see the image of [tickers used in analysis](Resources/tickers.png) here.
 
+	
+VBA_Challenge_2017
+
+## Results
+
+	- The macro creates a table where we can see data of the 12 different tickers such as Total Daily Volume, and the return of investent  either in 2017 or 2018
+
+### 2017
+- <img src = "Resources/VBA_Challenge_2017.png" width= "500" >
 
 
-### Results
 
-- The objective of this challenge is to utilize the excel skills  that we learned in Module 1.
-- We'll also start analyzing the visualizations (Pivot Graphs) in order to be able to tell a story based on the data.
+	- A VBA macro was created. It  can trigger pop-ups and inputs, read and change cell values, and format cells.
+	- For-loops and conditionals to direct logic flow were used
+	- Nested for loops were also utilized
+	- Coding skills such as syntax recollection, pattern recognition, problem decomposition, and debugging were developed in this challange.
+	- Arrays were created
+	- Code was refactored to improve the execution time of the macro.
+
+
 
 
 
