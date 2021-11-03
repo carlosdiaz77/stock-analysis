@@ -28,36 +28,37 @@ VBA_Challenge_2017
 - <img src = "Resources/VBA_Challenge_2018.png" width= "300" >
 
 
--The macro  laynches a pop-up window and collects inputs from the user to determine if the data will be for 2017 or 2018
+-The macro launches a pop-up window and collects inputs from the user to determine if the data will be for 2017 or 2018
 
 - <img src = "Resources/PopUp.png" width= "500" >
 
 
-
-read and change cell values, and format cells.
 - For-loops and conditionals to direct logic flow were used
 - Nested for loops were also utilized
+
+
 - Coding skills such as syntax recollection, pattern recognition, problem decomposition, and debugging were developed in this challange.
 - Arrays were created
+
+
 - Code was refactored to improve the execution time of the macro.
 
+The image below shows the differences in running time of the regular code developed during the module 2 and the refactored code that was created for this challenge.
 
+- <img src = "Resources/regular_vs_refactored.png" width= "500" >
 
 
 
 ## Summary
 
-- I had the opportunity to make some tables and graphs and I could get some interesting insights from them.
-- Generally speaking I had to pay special attention to every line in the instructions, If you don't do this you can miss an important instruction and have an incomplete task in the challenge.
+
+-It is amazing to see how excel and VBA can help automate calculations.
+The use of for-loops and conditionals, Arrays and indexation of arrays are key for the success of creating efficient macros.
+
+-Refactoring is crusial to improve the performace of Macros.
+We can see  that If we had to run this same macro for all the tickers in the US stock market  
+the regular code would take about 30 minutes to exceute the macro while
+the refactored code would take about 4.5 minutes.
 
 
-### Analysis of Outcomes Based on Launch Date
-
-
-
-
-- <img src = "resources/Outcomes_vs_Goals.png" width= "500" >
-
-	- You can see the image of [Outcomes Based on launch date](resources/Outcomes_vs_Goals.png) here.
-
-
+- <img src = "Resources/time_compare.png" width= "500" >
