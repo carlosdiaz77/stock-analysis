@@ -48,6 +48,9 @@ The image below shows the differences in running time of the regular code develo
 - <img src = "Resources/regular_vs_refactored.png" width= "500" >
 
 
+	- Click here to open te macro [VBA_Challenge](VBA_challenge.xlsm)
+
+
 
 ## Summary
 
