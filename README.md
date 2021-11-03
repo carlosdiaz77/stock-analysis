@@ -18,8 +18,8 @@ VBA_Challenge_2017
 
 ## Results
 
-- The macro creates a table where we can see data of the 12 different tickers such as Total Daily Volume, and the return of investent  either in 2017 or 2018
-
+- The macro creates a table of the 12 different tickers where we can see data such as: Total Daily Volume, and the return of investent  either in 2017 or 2018
+- 
 ### 2017
 - <img src = "Resources/VBA_Challenge_2017.png" width= "300" >
 
@@ -28,7 +28,11 @@ VBA_Challenge_2017
 - <img src = "Resources/VBA_Challenge_2018.png" width= "300" >
 
 
-- A VBA macro was created. It  can trigger pop-ups and inputs, read and change cell values, and format cells.
+-The macro can trigger pop-ups and collects inputs from the user to determine if the data will be for 2017 or 2018
+
+
+
+read and change cell values, and format cells.
 - For-loops and conditionals to direct logic flow were used
 - Nested for loops were also utilized
 - Coding skills such as syntax recollection, pattern recognition, problem decomposition, and debugging were developed in this challange.
