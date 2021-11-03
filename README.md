@@ -6,7 +6,7 @@
 The objective was to  develop macros in excel using VBA (Visual Basic for Applications)
 The final result was to be able to refactor the code and improve the time the macro takes to run the code.
 
--In this project  we  use real data of 12  clean energy companies that are in the US stock market
+-In this project,  we  used real data of 12  clean energy companies that are in the US stock market
 We had data of their stock prices of the years 2017  and 2018
 (See image below)
 
@@ -14,11 +14,10 @@ We had data of their stock prices of the years 2017  and 2018
 - You can see the image of [tickers used in analysis](Resources/tickers.png) here.
 
 	
-VBA_Challenge_2017
 
 ## Results
 
-- The macro creates a table of the 12 different tickers where we can see data such as: Total Daily Volume, and the return of investment  either in 2017 or 2018
+- The macro we developed creates a table of the 12 different tickers where we can see data such as: Total Daily Volume, and the return of investment  either in 2017 or 2018
 - 
 ### 2017
 - <img src = "Resources/VBA_Challenge_2017.png" width= "300" >
@@ -39,8 +38,6 @@ VBA_Challenge_2017
 
 - Coding skills such as syntax recollection, pattern recognition, problem decomposition, and debugging were developed in this challenge.
 - Arrays were created
-
-
 - Code was refactored to improve the execution time of the macro.
 
 The image below shows the differences in running time of the regular code developed during the module 2 and the refactored code that was created for this challenge.
@@ -64,4 +61,4 @@ the regular code would take about 30 minutes to execute the macro while
 the refactored code would only take about 4.5 minutes.
 
 
-- <img src = "Resources/time_compare.png" width= "500" >
+- <img src = "Resources/time_compare.png" width= "300" >
