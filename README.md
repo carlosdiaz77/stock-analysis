@@ -12,6 +12,7 @@ We had data of their stock prices of the years 2017  and 2018
 
 - <img src = "resources/tickers.png" width= "500" >
 - <img src = "resources/tickers.png" width= "500" >
+- You can see the image of [Outcomes Based on launch date](resources/tickers.png) here.
 
 
 
