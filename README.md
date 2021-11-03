@@ -57,8 +57,7 @@ The use of for-loops and conditionals, Arrays and indexation of arrays are key f
 
 -Refactoring is crucial to improve the performance of Macros.
 We can see  that If we had to run this same macro for all the tickers in the US stock market  
-the regular code would take about 30 minutes to execute the macro while
-the refactored code would only take about 4.5 minutes.
+the regular code would take about 30 minutes to execute the macro while the refactored code would only take about 4.5 minutes.
 
 
 - <img src = "Resources/time_compare.png" width= "300" >
