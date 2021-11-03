@@ -11,6 +11,7 @@ We had data of their stock prices of the years 2017  and 2018
 (See image below)
 
 - <img src = "resources/tickers.png" width= "500" >
+- <img src = "resources/tickers.png" width= "500" >
 
 
 
