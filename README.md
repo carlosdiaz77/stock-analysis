@@ -28,7 +28,9 @@ VBA_Challenge_2017
 - <img src = "Resources/VBA_Challenge_2018.png" width= "300" >
 
 
--The macro can trigger pop-ups and collects inputs from the user to determine if the data will be for 2017 or 2018
+-The macro  laynches a pop-up window and collects inputs from the user to determine if the data will be for 2017 or 2018
+
+- <img src = "Resources/PopUp.png" width= "500" >
 
 
 
