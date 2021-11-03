@@ -10,7 +10,7 @@ The final result was to be able to refactor the code and impove the time the mac
 We had data of their stock prices of the years 2017  and 2018
 (See image below)
 
-- <img src = "resources/tickers.png" width= "500" >
+- <img src = "resources/tickers.PNG" width= "500" >
 
 
 
