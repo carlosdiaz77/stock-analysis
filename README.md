@@ -2,15 +2,15 @@
 
 ## Overview of Project.
 
-	-This project was the challenge for module 2 of the Data Analysis  Bootcamp  Texas University At Austin
-	The objective was to  develop macros in excel using VBA (Visual Basic for Applications)
-	The final result was to be able to refactor the code and impove the time the macro takes to run the code.
+-This project was the challenge for module 2 of the Data Analysis  Bootcamp  Texas University At Austin
+The objective was to  develop macros in excel using VBA (Visual Basic for Applications)
+The final result was to be able to refactor the code and impove the time the macro takes to run the code.
 
-	-In this project  we  use real data of 12  clean energy companies that are in the US stock market
-	We had data of their stock prices of the years 2017  and 2018
-	(See image below)
+-In this project  we  use real data of 12  clean energy companies that are in the US stock market
+We had data of their stock prices of the years 2017  and 2018
+(See image below)
 
-	- <img src = "resources/clean_energies.png" width= "500" >
+- <img src = "resources/clean_energies.png" width= "500" >
 
 
 
